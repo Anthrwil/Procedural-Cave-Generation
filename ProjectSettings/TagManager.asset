@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - SpawnedElement
+  - SpawnedElement2
+  - SpawnedElement3
+  - SpawnedElement4
+  - SpawnedElement5
+  - SpawnedElement6
+  - SpawnedElement7
+  - SpawnedElement8
+  - SpawnedElement9
+  - SpawnedElement10
+  - Settlement 1
+  - Settlement 2
+  - Settlement 3
+  - Settlement 4
+  - Settlement 5
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
